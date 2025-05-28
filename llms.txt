@@ -4,7 +4,7 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 
 ## Getting Started
 - [Quick Start](https://docs.apryse.com/guides/get-started): A guide to help you quickly select your langauge, platform, framework for tailored instructions to set up and start using the Apryse PDF SDK.
-- [Samples](https://docs.apryse.com/samples): A collection of sample projects demonstrating various features of the Apryse SDK.
+- [Samples](https://docs.apryse.com/samples): Access to code snippets for each Apryse product.
 - [Downloads](https://docs.apryse.com/downloads): Choose product to access correct download for the Apryse SDK and related resources.
 - [APIs](https://docs.apryse.com/apis): Links for each product/language to access comprehensive API documentation for the Apryse SDK.
 
@@ -45,7 +45,7 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Mendix](https://docs.apryse.com/web/guides/mendix): Guidelines for using the SDK with Mendix applications.
 
 ## Sample Code and Demos
-- [Apryse Web Samples: View, Annotate, Edit & More](https://docs.apryse.com/web/samples): A collection of samples showcasing various functionalities of the Web SDK.
+- [Apryse Web Samples: View, Annotate, Edit & More](https://docs.apryse.com/web/samples): A collection of code snippets showcasing various functionalities of the Web SDK.
 - [Apryse Server Samples: View, Annotate, Edit & More](https://docs.apryse.com/core/samples): A collection of samples showcasing various functionalities of the Server SDK.
 - [Digitally Sign PDF Files](https://docs.apryse.com/core/samples/digitalsignaturestest): Sample code in several languages for digitally signing PDFs using Server SDK.
 - [Convert Files](https://docs.apryse.com/core/samples/converttest): Sample to convert file types with Apryse Server SDK.
