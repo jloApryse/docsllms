@@ -37,11 +37,11 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Java](https://docs.apryse.com/core/guides/get-started/python): Guidelines for integrating the SDK with Java applications.
 
 ## Integrations
-- [Salesforce](https://docs.apryse.com/salesforce/guides): Integration guidelines for Salesforce applications.
+- [Salesforce](https://docs.apryse.com/salesforce/guides): SDK integration guidelines for Salesforce applications.
 - [Appian](https://docs.apryse.com/appian/guides): Documentation for using the SDK with Appian.
 - [SharePoint](https://docs.apryse.com/web/guides/sharepoint): Guidelines for integrating the SDK with SharePoint.
 - [OutSystems](https://docs.apryse.com/web/guides/get-started/outsystems): Instructions for using the SDK with OutSystems.
-- [Microsoft Teams](https://docs.apryse.com/web/guides/get-started/microsoft-teams): Integration documentation for Microsoft Teams.
+- [Microsoft Teams](https://docs.apryse.com/web/guides/get-started/microsoft-teams): SDK integration documentation for Microsoft Teams.
 - [Mendix](https://docs.apryse.com/web/guides/mendix): Guidelines for using the SDK with Mendix applications.
 
 ## Sample Code and Demos
@@ -68,5 +68,3 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Smart Data Exraction Guide](https://docs.apryse.com/core/guides/rag-guide): Instructions for setting up the SDK in various Integrated Development Environments (IDEs).
 - [Fluent Docs](https://fluent.apryse.com/documentation): Documentation for Fluent, document automation tool.
 - [iText Knowledge Base](https://kb.itextpdf.com/): Documentation focused on iText, server-side PDF processing with open source options.
-
-This structured summary provides a comprehensive overview of the Apryse documentation, ensuring that all relevant links and descriptions are included for easy reference.
