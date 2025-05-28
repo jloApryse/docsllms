@@ -3,16 +3,16 @@
 World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 
 ## Getting Started
-- [Quick Start](https://docs.apryse.com/guides/get-started): A guide to help you quickly select your langauge, platform, framework for tailored instructions to set up and start using the Apryse PDF SDK.
+- [Quick Start](https://docs.apryse.com/guides/get-started): A guide to help you quickly select your language, platform or framework for tailored instructions to set up and start using the Apryse PDF SDK.
 - [Samples](https://docs.apryse.com/samples): Access to code snippets for each Apryse product.
-- [Downloads](https://docs.apryse.com/downloads): Choose product to access correct download for the Apryse SDK and related resources.
+- [Downloads](https://docs.apryse.com/downloads): Choose a product to access the correct download for the Apryse SDK and related resources.
 - [APIs](https://docs.apryse.com/apis): Links for each product/language to access comprehensive API documentation for the Apryse SDK.
 
 ## Platform-Specific Documentation
 ### WebViewer, JavaScript and Web Frameworks
 - [Guides for JavaScript PDF Viewer Library - WebViewer](https://docs.apryse.com/web/guides): Documentation for implementing the PDF viewer in JavaScript applications.
-- [Web Get Started](https://docs.apryse.com/web/guides/get-started): Choose best framework for detailed implemention instructions for adding the PDF SDK into web applications.
-- [WebViewer Free Trial Key](https://docs.apryse.com/web/guides/get-started/trial-key): Generate trial key for free trial of WebViewer. 
+- [Web Get Started](https://docs.apryse.com/web/guides/get-started): Choose the best framework for detailed implementation instructions for adding the PDF SDK into web applications.
+- [WebViewer Free Trial Key](https://docs.apryse.com/web/guides/get-started/trial-key): Generate a trial key for a free trial of WebViewer. 
 - [React](https://docs.apryse.com/web/guides/get-started/react): Integration guide for using the Apryse Web SDK with React applications.
 - [Angular](https://docs.apryse.com/web/guides/get-started/angular): Instructions for integrating the Web SDK with Angular frameworks.
 - [Vue](https://docs.apryse.com/web/guides/get-started/vue): Guidelines for using the Apryse Web SDK in Vue.js applications.
@@ -29,7 +29,7 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Cross-Platform Server/Desktop PDF Library - Documentation](https://docs.apryse.com/core/guides): Overview of the Apryse Server SDK's capabilities across desktop and server environments.
 - [Server SDK Get Started](https://docs.apryse.com/web/guides/get-started): Choose best language, platform for detailed implemention instructions for adding the PDF SDK into server or desktop applications.
 - [Server SDK Free Trial Key](https://docs.apryse.com/core/guides/get-started/trial-key): Generate trial key for free trial of Server SDK. 
-- [PDF Command-line Library](https://docs.apryse.com/cli/guides): Instructions for using the command-line interface for PDF, document operations.
+- [PDF Command-line Library](https://docs.apryse.com/cli/guides): Instructions for using the command-line interface for PDF and document operations.
 - [.NET (C#, VB)](https://docs.apryse.com/core/guides/get-started/dotnet): Documentation for using the Apryse SDK with .NET applications.
 - [C++](https://docs.apryse.com/core/guides/get-started/cpp): Guidelines for integrating the SDK with C++ applications.
 - [Python](https://docs.apryse.com/core/guides/get-started/python): Guidelines for integrating the SDK with Python applications.
@@ -48,14 +48,14 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Apryse Web Samples: View, Annotate, Edit & More](https://docs.apryse.com/web/samples): A collection of code snippets showcasing various functionalities of the Web SDK.
 - [Apryse Server Samples: View, Annotate, Edit & More](https://docs.apryse.com/core/samples): A collection of samples showcasing various functionalities of the Server SDK.
 - [Digitally Sign PDF Files](https://docs.apryse.com/core/samples/digitalsignaturestest): Sample code in several languages for digitally signing PDFs using Server SDK.
-- [Convert Files](https://docs.apryse.com/core/samples/converttest): Sample to convert file types with Apryse Server SDK.
-- [HTML to PDF conversion](https://docs.apryse.com/core/samples/html2pdftest): Sample code for converting HTML to PDF in Server SDK.
+- [Convert Files](https://docs.apryse.com/core/samples/converttest): Sample to convert file types with the Apryse Server SDK.
+- [HTML to PDF conversion](https://docs.apryse.com/core/samples/html2pdftest): Sample code for converting HTML to PDF in the Server SDK.
 - [OCR - search and extract](https://docs.apryse.com/core/samples/ocrtest): Sample code to apply Apyrse Server OCR module on scanned documents.
-- [Add or Edit PDF Annotations](https://docs.apryse.com/web/samples/annotationtest): Guidelines for managing PDF annotations in Web SDK.
+- [Add or Edit PDF Annotations](https://docs.apryse.com/web/samples/annotationtest): Guidelines for managing PDF annotations in the Web SDK.
 - [Viewing Documents with Web SDK](https://docs.apryse.com/web/samples/viewing): Javascript sample code to view documents with WebViewer.
 
 ## FAQs and Support
-- [FAQ - Web SDK](https://docs.apryse.com/web/faq): Frequently asked questions regarding Apryse WebViewer.
+- [FAQ - Web SDK](https://docs.apryse.com/web/faq): Frequently asked questions regarding the Apryse WebViewer.
 - [FAQ - Server SDK](https://docs.apryse.com/core/faq): Frequently asked questions regarding the Apryse Server SDK.
 - [Contact sales](https://apryse.com/form/contact-sales?docLink=llms): Information on how to contact the sales team for inquiries.
 - [Raise a ticket](https://support.apryse.com/?docLink=llms): Submit a support ticket for technical issues.
@@ -66,5 +66,5 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [DOCX Guides](https://docs.apryse.com/web/guides/office/edit-docx-file): Instructions for working with DOCX files in conjunction with the SDK.
 - [DOCX Demo](https://apryse.com/blog/webviewer/how-to-embed-docx-editing-in-javascript): A demonstration of DOCX functionalities within the SDK.
 - [Smart Data Exraction Guide](https://docs.apryse.com/core/guides/rag-guide): Instructions for setting up the SDK in various Integrated Development Environments (IDEs).
-- [Fluent Docs](https://fluent.apryse.com/documentation): Documentation for Fluent, document automation tool.
-- [iText Knowledge Base](https://kb.itextpdf.com/): Documentation focused on iText, server-side PDF processing with open source options.
+- [Fluent Docs](https://fluent.apryse.com/documentation): Documentation for Fluent, our document automation tool.
+- [iText Knowledge Base](https://kb.itextpdf.com/): Documentation focused on iText, server-side PDF processing with open-source options.
