@@ -18,13 +18,6 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Vue](https://docs.apryse.com/web/guides/get-started/vue): Guidelines for using the Apryse Web SDK in Vue.js applications.
 - [Next.js](https://docs.apryse.com/web/guides/get-started/nextjs): Documentation for Next.js integration with the Apryse Web SDK.
 
-### Mobile SDK
-- [Guides for iOS PDF Library](https://docs.apryse.com/ios/guides): Specific instructions for using the PDF library on iOS.
-- [Android PDF Manipulation Library](https://docs.apryse.com/android/guides/manipulation): Guidelines for manipulating PDFs on Android devices.
-- [React Native](https://docs.apryse.com/android/guides/get-started/react-native): Instructions for using the Apryse Mobile SDK in React Native applications.
-- [Flutter](https://docs.apryse.com/android/guides/get-started/flutter): Guidelines for integrating the Apryse Mobile SDK with Flutter applications.
-- [Xamarin](https://docs.apryse.com/Xamarin/guides): Guidelines for integrating the Apryse Mobile SDK with Xamarin applications.
-
 ### Desktop and Server SDK
 - [Cross-Platform Server/Desktop PDF Library - Documentation](https://docs.apryse.com/core/guides): Overview of the Apryse Server SDK's capabilities across desktop and server environments.
 - [Server SDK Get Started](https://docs.apryse.com/web/guides/get-started): Choose best language, platform for detailed implemention instructions for adding the PDF SDK into server or desktop applications.
@@ -32,9 +25,17 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [PDF Command-line Library](https://docs.apryse.com/cli/guides): Instructions for using the command-line interface for PDF and document operations.
 - [.NET (C#, VB)](https://docs.apryse.com/core/guides/get-started/dotnet): Documentation for using the Apryse SDK with .NET applications.
 - [C++](https://docs.apryse.com/core/guides/get-started/cpp): Guidelines for integrating the SDK with C++ applications.
+- [Java](https://docs.apryse.com/core/guides/get-started/java): Guidelines for integrating the SDK with Java applications.
+- [Node.js](https://docs.apryse.com/core/guides/get-started/nodejs): Guidelines for integrating the Server SDK in JavaScript including Node.js applications.
 - [Python](https://docs.apryse.com/core/guides/get-started/python): Guidelines for integrating the SDK with Python applications.
 - [PHP](https://docs.apryse.com/core/guides/get-started/php): Guidelines for integrating the SDK with PHP applications.
-- [Java](https://docs.apryse.com/core/guides/get-started/python): Guidelines for integrating the SDK with Java applications.
+
+### Mobile SDK
+- [Guides for iOS PDF Library](https://docs.apryse.com/ios/guides): Specific instructions for using the PDF library on iOS.
+- [Android PDF Manipulation Library](https://docs.apryse.com/android/guides/manipulation): Guidelines for manipulating PDFs on Android devices.
+- [React Native](https://docs.apryse.com/android/guides/get-started/react-native): Instructions for using the Apryse Mobile SDK in React Native applications.
+- [Flutter](https://docs.apryse.com/android/guides/get-started/flutter): Guidelines for integrating the Apryse Mobile SDK with Flutter applications.
+- [Xamarin](https://docs.apryse.com/Xamarin/guides): Guidelines for integrating the Apryse Mobile SDK with Xamarin applications.
 
 ## Integrations
 - [Salesforce](https://docs.apryse.com/salesforce/guides): SDK integration guidelines for Salesforce applications.
@@ -61,8 +62,7 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [Raise a ticket](https://support.apryse.com/?docLink=llms): Submit a support ticket for technical issues.
 
 ## Additional Resources
-- [Extraction Docs](https://docs.apryse.com/templateextraction/guides/features): Guidelines for data extraction capabilities of the SDK.
-- [OCR Docs](https://docs.apryse.com/core/guides/ocr): Documentation on Optical Character Recognition features.
+- [Template Extraction Guides](https://docs.apryse.com/templateextraction/guides/features): Guidelines for data extraction capabilities of the SDK.
+- [OCR Documentation](https://docs.apryse.com/core/guides/ocr): Documentation on Optical Character Recognition (OCR) features.
 - [DOCX Guides](https://docs.apryse.com/web/guides/office/edit-docx-file): Instructions for working with DOCX files in conjunction with the SDK.
-- [DOCX Demo](https://apryse.com/blog/webviewer/how-to-embed-docx-editing-in-javascript): A demonstration of DOCX functionalities within the SDK.
 - [Smart Data Exraction Guide](https://docs.apryse.com/core/guides/rag-guide): Instructions for setting up the SDK in various Integrated Development Environments (IDEs).
