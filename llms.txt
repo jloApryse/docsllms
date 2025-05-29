@@ -66,5 +66,3 @@ World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
 - [DOCX Guides](https://docs.apryse.com/web/guides/office/edit-docx-file): Instructions for working with DOCX files in conjunction with the SDK.
 - [DOCX Demo](https://apryse.com/blog/webviewer/how-to-embed-docx-editing-in-javascript): A demonstration of DOCX functionalities within the SDK.
 - [Smart Data Exraction Guide](https://docs.apryse.com/core/guides/rag-guide): Instructions for setting up the SDK in various Integrated Development Environments (IDEs).
-- [Fluent Docs](https://fluent.apryse.com/documentation): Documentation for Fluent, our document automation tool.
-- [iText Knowledge Base](https://kb.itextpdf.com/): Documentation focused on iText, server-side PDF processing with open-source options.
