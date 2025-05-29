@@ -64,5 +64,5 @@ Document Processing Technology for Developers. Integrate document processing cap
 ## Additional Resources
 - [Template Extraction Guides](https://docs.apryse.com/templateextraction/guides/features): Guidelines for data extraction capabilities of the SDK.
 - [OCR Documentation](https://docs.apryse.com/core/guides/ocr): Documentation on Optical Character Recognition (OCR) features.
-- [DOCX Guides](https://docs.apryse.com/web/guides/office/edit-docx-file): Instructions for working with DOCX files in conjunction with the SDK.
+- [DOCX Editor Guides](https://docs.apryse.com/web/guides/office/edit-docx-file): Instructions for working with DOCX files in conjunction with the SDK.
 - [Smart Data Exraction Guide](https://docs.apryse.com/core/guides/rag-guide): Instructions for setting up the SDK in various Integrated Development Environments (IDEs).
