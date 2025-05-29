@@ -1,6 +1,6 @@
-# Apryse documentation
+#Apryse SDK Documentation - Formerly Known as PDFTron
 
-World's #1 PDF SDK Library for Web, Server, Desktop, Mobile
+Document Processing Technology for Developers. Integrate document processing capabilities into your software applications. Generate, convert, view, edit, and sign pdf and documents easily.
 
 ## Getting Started
 - [Quick Start](https://docs.apryse.com/guides/get-started): A guide to help you quickly select your language, platform or framework for tailored instructions to set up and start using the Apryse PDF SDK.
