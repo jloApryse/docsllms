@@ -1,0 +1,2174 @@
+[
+  {
+    "demoPath": "/modular-ui-customization",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Modular UI Guides",
+            "url": "https://docs.apryse.com/web/guides/modular-ui/getting-started"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/multi-tab-support",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Open Multiple Documents - Multi-Tab",
+            "url": "https://docs.apryse.com/documentation/web/guides/multi-tab"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/side-by-side",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "View Documents Side-By-Side",
+            "url": "https://docs.apryse.com/documentation/web/guides/multi-viewer-mode"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/toolbar-customization",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Show/Hide UI Elements",
+            "url": "https://docs.apryse.com/web/guides/hiding-elements"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/language-switcher",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Localization - Change UI Language",
+            "url": "https://docs.apryse.com/documentation/web/guides/languages-and-internationalization"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Switch UI Language",
+            "url": "https://docs.apryse.com/web/samples/internationalization"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/webviewer-dark-mode",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Set UI Themes",
+            "url": "https://docs.apryse.com/web/guides/themes#using-settheme-api"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/online-flipbook",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Build Your Own UI",
+            "url": "https://docs.apryse.com/documentation/web/guides/core"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Flipbook",
+            "url": "https://docs.apryse.com/web/samples/flipbook"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/office-documents",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Office Conversion"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Opening Office Files",
+            "url": "https://docs.apryse.com/web/guides/office/open-office"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-viewer-mobile",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Modular UI",
+            "url": "https://docs.apryse.com/web/guides/modular-ui/getting-started"
+          },
+          {
+            "name": "UI Customization",
+            "url": "https://docs.apryse.com/web/guides/ui-customization"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/large-files",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Best Practice For Linearization",
+            "url": "https://docs.apryse.com/web/guides/best-practices#linearize-pdf-files"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Blog: What is Linearization?",
+            "url": "https://apryse.com/blog/pdf-format/what-is-pdf-linearization"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK also offers file optimization tools.",
+        "buttons": [
+          {
+            "name": "Optimize Files with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/optimization/viewer-optimized"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/add-watermark",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Security"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Watermarks Docs",
+            "url": "https://docs.apryse.com/web/guides/watermarks"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [   
+          {
+            "name": "Sample Code: Watermarks in JavaScript",
+            "url": "https://docs.apryse.com/web/guides/watermarks"
+          },      
+          {
+            "name": "Video: How To Add Watermarks",
+            "url": "https://www.youtube.com/watch?v=Xfv_psvC468"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK also offers options for working with watermarks.",
+        "buttons": [
+          {
+            "name": "Watermarks with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/annotation/stamp-annotation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-layers",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Show Layers",
+            "url": "https://docs.apryse.com/web/guides/show-hide-layers"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Layer Separation",
+            "url": "https://docs.apryse.com/web/samples/layer-separation"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Layer/OCG options are also available in Server SDK.",
+        "buttons": [
+          {
+            "name": "Layers (OCGs) with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/layers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/color-separation",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Color Separation",
+            "url": "https://docs.apryse.com/web/guides/color-separation"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Color Separation",
+            "url": "https://docs.apryse.com/web/samples/color-separation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/portfolio",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "PDF Portfolio",
+            "url": "https://docs.apryse.com/web/guides/portfolio"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: PDF Portfolio",
+            "url": "https://docs.apryse.com/web/guides/portfolio/samples"
+          },
+          {
+            "name": "Blog: Working with PDF Portfolios",
+            "url": "https://apryse.com/blog/working-with-pdf-portfolio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/office-editor",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: DOCX Editor"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Edit DOCX Files",
+            "url": "https://docs.apryse.com/web/guides/office/edit-docx-file"
+          },
+          {
+            "name": "Constructor Code",
+            "url": "https://docs.apryse.com/web/guides/office/edit-docx-file#webviewer-constructor"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Video: Embed DOCX Editor in React App",
+            "url": "https://www.youtube.com/watch?v=gbjA-D_NHsc"
+          },
+          {
+            "name": "Apryse Packages (DOCX Editor)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-stamps",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Stamp Annotations",
+            "url": "https://docs.apryse.com/web/guides/annotation/stamps"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Stamps are easy to automate into large file groups with Server SDK.",
+        "buttons": [
+          {
+            "name": "Stamp Annotations with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/annotation/stamp-annotation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/custom-annotations",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Custom Annotations",
+            "url": "https://docs.apryse.com/web/guides/annotation/customize/custom-annotations"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Custom Annotation",
+            "url": "https://docs.apryse.com/web/samples/custom-annotations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/annotation-permissions",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Setting Annotation Permissions",
+            "url": "https://docs.apryse.com/web/guides/annotation/annotationmanager/permissions"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Code Snippet: Annotation Permissions",
+            "url": "https://docs.apryse.com/web/guides/annotation/annotationmanager/permissions#custom-permissions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/measurement-tools",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Measurement Annotations",
+            "url": "https://docs.apryse.com/web/guides/measurement"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Samples",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Measurement Viewer",
+            "url": "https://docs.apryse.com/web/samples/measurement-viewer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/flatten-form",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Flatten Forms",
+            "url": "https://docs.apryse.com/web/guides/forms/flatten-forms"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Flatten Forms",
+            "url": "https://docs.apryse.com/web/guides/forms/flatten-forms#flattening-annotations-in-the-viewer"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK also offers form flattening. ",
+        "buttons": [
+          {
+            "name": "Flatten PDF/form with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/forms/flatten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/xfdf-annotations-in-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "XFDF Documentation",
+            "url": "https://docs.apryse.com/web/guides/xfdf"
+          },
+          {
+            "name": "Video: Saving Annotations",
+            "url": "https://www.youtube.com/watch?v=XalO08f8LfY"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Blog: How To Export XFDF Annotations",
+            "url": "https://apryse.com/blog/annotation/how-to-export-xfdf-annotations"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "XFDF and many file conversion options are also available on Server SDK.",
+        "buttons": [
+          {
+            "name": "XFDF to PDF Forms with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/forms/import-data"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/document-collaboration",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Custom Server"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Products",
+        "description": "A server handles the communication to keep multiple WebViewer clients in sync.",
+        "buttons": [
+          {
+            "name": "Realtime Collaboration",
+            "url": "https://docs.apryse.com/web/guides/realtime-collaboration"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Repo: Collaborate w/SQLite",
+            "url": "https://github.com/ApryseSDK/webviewer-realtime-collaboration-sqlite3-sample"
+          },
+          {
+            "name": "Code Sample: Collaboration w/Firebase",
+            "url": "https://docs.apryse.com/web/samples/realtime-collaboration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/password-protect",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Security"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Encrptying PDFs",
+            "url": "https://docs.apryse.com/web/guides/security/encrypt"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Encrypt PDF",
+            "url": "https://docs.apryse.com/web/samples/enctest"
+          },
+          {
+            "name": "Apryse Packages (Security)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK also offers encryption tools.",
+        "buttons": [
+          {
+            "name": "Encrypt with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/security/encrypt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/redaction",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Redaction"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Redact Documents",
+            "url": "https://docs.apryse.com/web/guides/redaction/redact"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Redatct File",
+            "url": "https://docs.apryse.com/web/samples/redaction-viewer"
+          },
+          {
+            "name": "Video: PDF Redaction",
+            "url": "https://www.youtube.com/watch?v=GwkYO-QtlHA"
+          },
+          {
+            "name": "Apryse Packages (Redaction)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Larger scale file redaction made easy with Server SDK. ",
+        "buttons": [
+          {
+            "name": "Redact with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/redaction"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/office-template-fill",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Template"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Content Value Formating",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template/data-model#format-for-content-values"
+          },
+          {
+            "name": "Generate Doc via Template",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Template)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Generate Files from Templates via Server SDK for bulk processing",
+        "buttons": [
+          {
+            "name": "Generate from Template via Server SDK",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/invoice-generation",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Template"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Template Loops",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template/data-model#loops"
+          },
+          {
+            "name": "Generate via Template",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Template)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/complex-generation",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Template"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Conditional Output",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template/data-model#conditionals"
+          },
+          {
+            "name": "Generate via Template",
+            "url": "https://docs.apryse.com/core/guides/generate-via-template"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Template)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/digital-signatures",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Digital Signature"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Digital Signature Docs",
+            "url": "https://docs.apryse.com/web/guides/signature"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Digital Signature",
+            "url": "https://docs.apryse.com/web/samples/digitalsignaturestest"
+          },
+          {
+            "name": "Apryse Packages (Digital Signature)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Digital signature options avaialable with Server SDK.",
+        "buttons": [
+          {
+            "name": "Digital Signature with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/signature"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-editing",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "PDF Text Edit Docs",
+            "url": "https://docs.apryse.com/web/guides/edit/text-edit"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Code Snippet: Enable Editing",
+            "url": "https://docs.apryse.com/web/guides/edit/text-edit#enable-content-editing-feature-with-the-webviewer-ui"
+          },
+          {
+            "name": "Blog: How To Edit PDF with WebViewer",
+            "url": "https://apryse.com/blog/javascript/how-to-edit-text-in-a-pdf-with-javascript"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/edit-table-of-contents-in-a-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Table of Content (Outline)",
+            "url": "https://docs.apryse.com/web/guides/bookmark/outline"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Page Manipulation)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "You can work with the outline tree in the Server SDK as well.",
+        "buttons": [
+          {
+            "name": "Outline tree with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/bookmark/outline"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/add-personal-bookmark-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "User Bookmarks",
+            "url": "https://docs.apryse.com/web/guides/bookmark/user-bookmarks"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Page Manipulation)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Bookmarks can also be manipulated with Server SDK.",
+        "buttons": [
+          {
+            "name": "Server SDK - Bookmarks",
+            "url": "https://docs.apryse.com/core/guides/features/bookmark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-page-manipulation-api",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "PDF Manipultaion Docs",
+            "url": "https://docs.apryse.com/web/guides/manipulation"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },,
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Page Operations",
+            "url": "https://docs.apryse.com/web/samples/page-operations"
+          },
+          {
+            "name": "Video: Split & Merge PDFs",
+            "url": "https://www.youtube.com/watch?v=ZKt38W7Ro4Y"
+          },
+          {
+            "name": "Apryse Packages (Page Manipulation)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Document manipulation is also handled by the Server SDK.",
+        "buttons": [
+          {
+            "name": "Page Manipulation with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/manipulation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/document-assembly",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Merging PDFs Across WebViewer Instances",
+            "url": "https://docs.apryse.com/web/guides/manipulation/thumbnails-controls#merging-from-another-webviewer"
+          },
+          {
+            "name": "Split & Merge with Flattening",
+            "url": "https://docs.apryse.com/web/guides/forms/flatten-forms"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Thumbnail Controls",
+            "url": "https://docs.apryse.com/web/samples/thumbnail-controls"
+          },
+          {
+            "name": "Apryse Packages (Page Manipulation)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdfa-conversion",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Archive"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "PDF/A Conversion",
+            "url": "https://docs.apryse.com/web/guides/features/pdfa"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: PDF/A Conversion",
+            "url": "https://docs.apryse.com/web/samples/pdfatest"
+          },
+          {
+            "name": "Apryse Packages (Archive)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Bulk file processing into PDF/A is easy with Server SDK.",
+        "buttons": [
+          {
+            "name": "PDF/A Conversion with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/pdfa/convert"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/validate-pdfa",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Archive"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "PDF/A Validation",
+            "url": "https://docs.apryse.com/core/guides/features/pdfa/validate"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Archive)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Bulk file validation is easy with Server SDK.",
+        "buttons": [
+          {
+            "name": "PDF/A Validation with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/pdfa/validate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-form-build",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Digital Signature"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Create Form Fields",
+            "url": "https://docs.apryse.com/web/guides/forms/create-fields"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Digital Signature)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-forms",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Fill Form Fields Docs",
+            "url": "https://docs.apryse.com/web/guides/forms/fill-fields"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK also offers form fill options.",
+        "buttons": [
+          {
+            "name": "Fill Forms with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/forms/fill-fields"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/flatten-form",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Flatten Forms with JavaScript",
+            "url": "https://docs.apryse.com/web/guides/forms/flatten-forms"
+          },          
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "You can also use Server SDK to flatten forms.",
+        "buttons": [
+          {
+            "name": "Flatten PDF/form with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/forms/flatten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/field-detection",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Server SDK", "Package: IDP"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Products",
+        "description": "This demo is using Server SDK for Intelligent Data Processing (IDP) and WebViewer for UI. ",
+        "buttons": [
+          {
+            "name": "Data Extraction Docs",
+            "url": "https://docs.apryse.com/core/guides/intelligent-data-extraction/workflow#form-field-identification"
+          },
+          {
+            "name": "Server SDK - Get Started",
+            "url": "https://docs.apryse.com/core/guides/get-started"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Modules",
+        "description": "Data Extraction Module is required to run this code, in addition to Server SDK download.",
+        "buttons": [
+          {
+            "name": "Data Extraction Module",
+            "url": "https://docs.apryse.com/core/guides/info/modules#data-extraction-module"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (IDP)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/semantic-text-compare",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Compare"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Semantic Compare Guide",
+            "url": "https://docs.apryse.com/web/guides/compare/semantic"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Blog: Using Semantic Compare",
+            "url": "https://apryse.com/blog/document-comparison/compare-pdf-word-documents-with-semantic-comparison"
+          },
+          {
+            "name": "Apryse Packages (Compare)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK offers compare options for streamlining work with very large files.",
+        "buttons": [
+          {
+            "name": "Semantic Compare with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/textdiff/textdiff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/compare-files",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Compare"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Compare by Image",
+            "url": "https://docs.apryse.com/web/guides/compare/pixels"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Compare Documents by Image - Sample",
+            "url": "https://docs.apryse.com/web/samples/diff"
+          },
+          {
+            "name": "Apryse Packages (Compare)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-search",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Search Documentation",
+            "url": "https://docs.apryse.com/web/guides/search"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Document Search",
+            "url": "https://docs.apryse.com/web/samples/textsearchtest"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK can offer some easier options to search at scale.",
+        "buttons": [
+          {
+            "name": "Search documents with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/search"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/extract-images-from-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Image Extract Guide",
+            "url": "https://docs.apryse.com/web/guides/extraction/image-extract"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Pull out more images using extraction on Server SDK. ",
+        "buttons": [
+          {
+            "name": "Image Extraction with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/extraction/image-extract"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-text-extractor",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Text Extract Guide",
+            "url": "https://docs.apryse.com/web/guides/extraction"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Text Extraction",
+            "url": "https://docs.apryse.com/web/samples/textextracttest"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK can offer also assist in text extraction.",
+        "buttons": [
+          {
+            "name": "Text Extraction with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/extraction/text-extract"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/ocr-module",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Server SDK", "Package: OCR"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Products",
+        "description": "This demo is using Server SDK for Intelligent Data Processing (IDP) and WebViewer for UI. ",
+        "buttons": [
+          {
+            "name": "OCR Documentation",
+            "url": "https://docs.apryse.com/core/guides/ocr"
+          },
+          {
+            "name": "Server SDK - Get Started",
+            "url": "https://docs.apryse.com/core/guides/get-started"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Modules",
+        "description": "OCR Module is required to run this code, in addition to Server SDK download.",
+        "buttons": [
+          {
+            "name": "OCR Module",
+            "url": "https://docs.apryse.com/core/guides/info/modules#ocr-module"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (OCR)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/idp-document-extraction",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Server SDK", "Package: IDP"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Products",
+        "description": "This demo is using Server SDK for Smart Data Extraction and WebViewer for UI. ",
+        "buttons": [
+          {
+            "name": "Smart Data Extraction",
+            "url": "https://docs.apryse.com/core/guides/intelligent-data-extraction/workflow"
+          },
+          {
+            "name": "Automate Extraction Blog",
+            "url": "https://apryse.com/blog/introducing-automated-data-extraction-pdf-idp"
+          },
+          {
+            "name": "Server SDK - Get Started",
+            "url": "https://docs.apryse.com/core/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Modules",
+        "description": "Data Extraction Module is required to run this code, in addition to Server SDK download.",
+        "buttons": [
+          {
+            "name": "Data Extraction Module",
+            "url": "https://docs.apryse.com/core/guides/info/modules#data-extraction-module"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Smart Data Extraction",
+            "url": "https://docs.apryse.com/core/samples/dataextractiontest"
+          },
+          {
+            "name": "Blog: Automate Extraction",
+            "url": "https://apryse.com/blog/introducing-automated-data-extraction-pdf-idp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/color-separation",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Color Separation",
+            "url": "https://docs.apryse.com/web/guides/color-separation"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Sample Code: Color Separation",
+            "url": "https://docs.apryse.com/web/samples/color-separation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/pdf-to-image",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Convert PDF to Image",
+            "url": "https://docs.apryse.com/web/guides/conversion/convert-pdf-to-image"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK can also be a great way to handle PDF to Image conversion.",
+        "buttons": [
+          {
+            "name": "Convert PDF to image with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/conversion/convert-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/image-to-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Convert Image to PDF",
+            "url": "https://docs.apryse.com/web/guides/conversion/convert-image-to-pdf"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Sever SDK is another great consideration for SVG to PDF conversion",
+        "buttons": [
+          {
+            "name": "SVG to PDF with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/conversion/convert-svg-to-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/office-to-pdf",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Office Conversion"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Convert Office to PDF",
+            "url": "https://docs.apryse.com/web/guides/office/convert-office"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Office Conversion)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Also need no other licenses to convert your MS Office file to PDF with Server SDK.",
+        "buttons": [
+          {
+            "name": "MS Office to PDF with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/office/convert-office"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/create-thumbnail",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Thumbnail Creation",
+            "url": "https://docs.apryse.com/web/guides/create/thumbnail"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Page Manipulation)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "Implementation Options",
+        "description": "Server SDK can also help you create thumbnails at scale.",
+        "buttons": [
+          {
+            "name": "Thumbnail creation with Server SDK",
+            "url": "https://docs.apryse.com/core/guides/features/create/thumbnail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/cad-viewer",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Server SDK", "Package: CAD Conversion"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "This demo is using Server SDK for CAD Conversion and WebViewer for UI. ",
+        "buttons": [
+          {
+            "name": "Convert CAD to PDF",
+            "url": "https://docs.apryse.com/core/guides/features/conversion/convert-cad-to-pdf"
+          },
+          {
+            "name": "Server SDK - Get Started",
+            "url": "https://docs.apryse.com/core/guides/get-started"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "Modules",
+        "description": "CAD Module is required to run this code, in addition to Server SDK download.",
+        "buttons": [
+          {
+            "name": "CAD Module",
+            "url": "https://docs.apryse.com/core/guides/info/modules#cad-module"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (CAD Conversion)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/spreadsheet-editor",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK", "Package: Spreadsheet Editor"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Products",
+        "description": "This demo is using Server SDK for CAD Conversion and WebViewer for UI. ",
+        "buttons": [
+          {
+            "name": "Spreadsheet Editor",
+            "url": "https://docs.apryse.com/web/guides/spreadsheet-editorf"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      },
+      {
+        "title": "More Resources",
+        "description": "",
+        "buttons": [
+          {
+            "name": "Apryse Packages (Spreadsheet Editor)",
+            "url": "https://apryse.com/capabilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "demoPath": "/accessible-reading-order",
+    "info": {
+      "title": "This demo is using:",
+      "description": "",
+      "packages": ["Web SDK"],
+      "cta": "More details in \"Resources\""
+    },
+    "resourcesTab": [
+      {
+        "title": "Documentation",
+        "description": "Detailed information on using the products and features in this demo.",
+        "buttons": [
+          {
+            "name": "Accessibility",
+            "url": "https://docs.apryse.com/web/guides/accessibility"
+          },
+          {
+            "name": "WebViewer - Get Started",
+            "url": "https://docs.apryse.com/web/guides/get-started"
+          }
+        ]
+      }
+    ]
+  }
+]
