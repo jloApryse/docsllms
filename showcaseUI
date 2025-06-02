@@ -1776,7 +1776,7 @@
     "resourcesTab": [
       {
         "title": "Products",
-        "description": "This demo is using Server SDK for Intelligent Data Processing (IDP) and WebViewer for UI. ",
+        "description": "This demo is using Server SDK for Optical Character Recognition (OCR) and WebViewer for UI. ",
         "buttons": [
           {
             "name": "OCR Documentation",
