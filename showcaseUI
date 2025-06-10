@@ -5,7 +5,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -34,7 +34,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -63,7 +63,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -92,7 +92,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -121,7 +121,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -160,7 +160,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -189,7 +189,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -224,7 +224,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Office Conversion"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -249,7 +249,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -278,7 +278,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -323,7 +323,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Security"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -372,7 +372,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -417,7 +417,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -452,7 +452,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -491,7 +491,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: DOCX Editor"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -534,7 +534,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -569,7 +569,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -604,7 +604,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -639,7 +639,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -674,7 +674,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -719,7 +719,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -764,7 +764,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Custom Server"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -803,7 +803,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Security"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -852,7 +852,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Redaction"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -905,7 +905,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Template"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -954,7 +954,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Template"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -993,7 +993,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Template"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1032,7 +1032,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Digital Signature"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1085,7 +1085,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1124,7 +1124,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Page Manipulation"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1169,7 +1169,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Page Manipulation"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1214,7 +1214,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Page Manipulation"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1267,7 +1267,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Page Manipulation"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1310,7 +1310,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Archive"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1359,7 +1359,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Archive"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1404,7 +1404,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Digital Signature"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1439,7 +1439,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1474,7 +1474,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1509,7 +1509,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Server SDK", "Package: IDP"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1558,7 +1558,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Compare"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1607,7 +1607,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Compare"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1646,7 +1646,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1691,7 +1691,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1726,7 +1726,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1771,7 +1771,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Server SDK", "Package: OCR"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1820,7 +1820,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Server SDK", "Package: IDP"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1873,7 +1873,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1908,7 +1908,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1943,7 +1943,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -1978,7 +1978,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Office Conversion"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -2023,7 +2023,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Page Manipulation"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -2068,7 +2068,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Server SDK", "Package: CAD Conversion"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -2117,7 +2117,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK", "Package: Spreadsheet Editor"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
@@ -2152,7 +2152,7 @@
       "title": "This demo is using:",
       "description": "",
       "packages": ["Web SDK"],
-      "cta": "More details in \"Resources\""
+      "cta": "Get Started"
     },
     "resourcesTab": [
       {
