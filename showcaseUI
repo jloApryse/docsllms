@@ -4,7 +4,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -33,7 +33,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -62,7 +62,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -91,7 +91,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -120,7 +120,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -159,7 +159,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -188,7 +188,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -223,7 +223,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Office Conversion"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Office Conversion",
+          "url": "https://apryse.com/capabilities#OfficeConversion",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -248,7 +255,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -277,7 +284,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -322,7 +329,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Security"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Security",
+          "url": "https://apryse.com/capabilities#Security",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -343,11 +357,11 @@
       {
         "title": "More Resources",
         "description": "",
-        "buttons": [   
+        "buttons": [
           {
             "name": "Sample Code: Watermarks in JavaScript",
             "url": "https://docs.apryse.com/web/guides/watermarks"
-          },      
+          },
           {
             "name": "Video: How To Add Watermarks",
             "url": "https://www.youtube.com/watch?v=Xfv_psvC468"
@@ -371,7 +385,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -416,7 +430,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -451,7 +465,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -490,7 +504,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: DOCX Editor"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "DOCX Editor",
+          "url": "https://apryse.com/capabilities#DOCXEditor",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -533,7 +554,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -568,7 +589,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -603,7 +624,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -638,7 +659,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -673,7 +694,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -718,7 +739,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -763,7 +784,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Custom Server"],
+      "tags": [{ "name": "Custom Server", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -802,7 +823,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Security"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Security",
+          "url": "https://apryse.com/capabilities#Security",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -851,7 +879,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Redaction"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Redaction",
+          "url": "https://apryse.com/capabilities#Redaction",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -904,7 +939,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Template"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Template",
+          "url": "https://apryse.com/capabilities#Template",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -953,7 +995,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Template"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Template",
+          "url": "https://apryse.com/capabilities#Template",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -992,7 +1041,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Template"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Template",
+          "url": "https://apryse.com/capabilities#Template",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1031,7 +1087,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Digital Signature"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Digital Signature",
+          "url": "https://apryse.com/capabilities#DigitalSignature",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1084,7 +1147,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1123,7 +1186,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Page Manipulation",
+          "url": "https://apryse.com/capabilities#PageManipulation",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1168,7 +1238,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Page Manipulation",
+          "url": "https://apryse.com/capabilities#PageManipulation",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1213,7 +1290,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Page Manipulation",
+          "url": "https://apryse.com/capabilities#PageManipulation",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1266,7 +1350,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Page Manipulation",
+          "url": "https://apryse.com/capabilities#PageManipulation",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1309,7 +1400,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Archive"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Archive",
+          "url": "https://apryse.com/capabilities#Archive",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1358,7 +1456,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Archive"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Archive",
+          "url": "https://apryse.com/capabilities#Archive",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1403,7 +1508,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Digital Signature"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Digital Signature",
+          "url": "https://apryse.com/capabilities#DigitalSignature",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1438,7 +1550,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1473,7 +1585,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1484,7 +1596,7 @@
           {
             "name": "Flatten Forms with JavaScript",
             "url": "https://docs.apryse.com/web/guides/forms/flatten-forms"
-          },          
+          },
           {
             "name": "WebViewer - Get Started",
             "url": "https://docs.apryse.com/web/guides/get-started"
@@ -1508,7 +1620,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Server SDK", "Package: IDP"],
+      "tags": [
+        { "name": "Server SDK", "type": "sdk" },
+        {
+          "name": "Smart Data Extraction",
+          "url": "https://apryse.com/capabilities#SmartDataExtraction",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1557,7 +1676,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Compare"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Compare",
+          "url": "https://apryse.com/capabilities#Compare",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1606,7 +1732,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Compare"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Compare",
+          "url": "https://apryse.com/capabilities#Compare",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1645,7 +1778,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1690,7 +1823,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1725,7 +1858,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1770,7 +1903,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Server SDK", "Package: OCR"],
+      "tags": [
+        { "name": "Server SDK", "type": "sdk" },
+        {
+          "name": "OCR",
+          "url": "https://apryse.com/capabilities#OpticalCharacterRecognition(OCR)",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1815,11 +1955,18 @@
     ]
   },
   {
-    "demoPath": "/idp-document-extraction",
+    "demoPath": "/smart-data-extraction",
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Server SDK", "Package: IDP"],
+      "tags": [
+        { "name": "Server SDK", "type": "sdk" },
+        {
+          "name": "Smart Data Extraction",
+          "url": "https://apryse.com/capabilities#SmartDataExtraction",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1872,7 +2019,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1907,7 +2054,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1942,7 +2089,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -1977,7 +2124,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Office Conversion"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Office Conversion",
+          "url": "https://apryse.com/capabilities#OfficeConversion",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -2022,7 +2176,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Page Manipulation"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Page Manipulation",
+          "url": "https://apryse.com/capabilities#PageManipulation",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -2067,7 +2228,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Server SDK", "Package: CAD Conversion"],
+      "tags": [
+        { "name": "Server SDK", "type": "sdk" },
+        {
+          "name": "CAD Conversion",
+          "url": "https://apryse.com/capabilities#CADConversion",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -2116,7 +2284,14 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK", "Package: Spreadsheet Editor"],
+      "tags": [
+        { "name": "Web SDK", "type": "sdk" },
+        {
+          "name": "Spreadsheet Editor",
+          "url": "https://apryse.com/capabilities#SpreadsheetEditor",
+          "type": "package"
+        }
+      ],
       "cta": "Get Started"
     },
     "resourcesTab": [
@@ -2126,7 +2301,7 @@
         "buttons": [
           {
             "name": "Spreadsheet Editor",
-            "url": "https://docs.apryse.com/web/guides/spreadsheet-editorf"
+            "url": "https://docs.apryse.com/web/guides/spreadsheet-editor"
           },
           {
             "name": "WebViewer - Get Started",
@@ -2151,7 +2326,7 @@
     "info": {
       "title": "This demo is using:",
       "description": "",
-      "packages": ["Web SDK"],
+      "tags": [{ "name": "Web SDK", "type": "sdk" }],
       "cta": "Get Started"
     },
     "resourcesTab": [
